@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+}
+#header-2 {
+    color: red;
+    text-decoration: underline;}
+
+    .p-css {
+    color: purple; 
+    font-size: 18px;
+    }
+
+    *{
+       margin: 0;
+       padding: 0;
+       background-color: aquamarine;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: medium;
+       text-align:justify;
+    }
+
+    .box-model {
+        width: 300px;
+        border: 5px solid black;
+        padding: 20px;
+        margin: 15px;
+        background-color: lightgrey;
+    }
+    .box-model .content {
+        border: 2px solid blue;
+        padding: 10px;
+        background-color: white;
+        text-align: center;
+    }
+    
